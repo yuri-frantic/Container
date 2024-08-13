@@ -1,0 +1,5 @@
+version: '2'
+services:
+  conteiner_a:
+    image: humble-desktop
+    command: ["my_script.sh"]
